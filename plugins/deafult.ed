@@ -1,0 +1,24 @@
+#def creator = "Loksy"
+#def name = "Default"
+#def version = "1.1"
+#def type = "modules"
+
+-AllOptions
+#start AllOptions
+tool = "box"
+width = "5.2 cm"
+height = "2.9 cm"
+color = red
+size_show = True
+text_place = down
+text_color = blue
+#end AllOptions
+
+-ESP32
+#start ESP32
+tool = "box"
+width = "5.2 cm"
+height = "2.9 cm"
+size_show = True
+
+#end ESP32
